@@ -6,5 +6,6 @@ public class User {
 		System.out.println("left¡­¡­11");
 		System.out.println("left¡­¡­2");
 		System.out.println("left¡­¡­3");
+		System.out.println("right¡­¡­3");
 	}
 }
